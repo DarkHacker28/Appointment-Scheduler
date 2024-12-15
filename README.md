@@ -43,7 +43,7 @@ Backend: C++ for performance-critical logic, C# for secure and scalable data man
 
 Clone the repository:
 
-git clone https://github.com/your-username/appointment-scheduler.git
+git clone https://github.com/DarkHacker28/Appointment-Scheduler
 
 Navigate to the project directory:
 
